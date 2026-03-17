@@ -1,1 +1,1 @@
-# git_sample
+I am new to git and learning the basics.
